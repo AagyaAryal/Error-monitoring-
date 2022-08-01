@@ -227,4 +227,22 @@ table .orange_box {
   background-color: rgb(253, 135, 44);
   margin-left: -8px;
   border-radius: 15%;
+}
+
+.nine {
+  background-color: rgb(249, 234, 239);
+  border-radius: 50%;
+  padding: 6px 10px 6px 10px;
+}
+
+.unresolved-nav {
+  border-bottom: 5px solid purple;
+}
+
+body nav {
+  display: flex;
+}
+
+body nav span {
+  padding: 5px;
 }/*# sourceMappingURL=style.css.map */
