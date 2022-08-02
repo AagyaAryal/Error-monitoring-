@@ -206,7 +206,8 @@ table .error_div {
   display: flex;
 }
 table .error_div p {
-  padding: 0.68rem 0 0 0.68rem;
+  padding: 1.1rem 0 0 0.68rem;
+  color: gray;
 }
 table h4 {
   color: royalblue;
@@ -219,7 +220,7 @@ table label {
 }
 table .wrap_div {
   margin-left: 1.56rem;
-  margin-top: -1.56rem;
+  margin-top: -2.3rem;
 }
 table .orange_box {
   width: 0.625rem;
@@ -236,7 +237,7 @@ table .orange_box {
 }
 
 .unresolved-nav {
-  border-bottom: 5px solid purple;
+  border-bottom: 0.3125rem solid purple;
 }
 
 body nav {
@@ -244,5 +245,5 @@ body nav {
 }
 
 body nav span {
-  padding: 5px;
+  padding: 0.3125rem;
 }/*# sourceMappingURL=style.css.map */
