@@ -17,7 +17,7 @@ table{
         display: flex;
 
         p{
-            padding: 11px 0px 0px 10px;
+            padding: 0.68rem 0 0 0.68rem;
         }
     }
     h4{
@@ -25,27 +25,27 @@ table{
     }
     #check1{
 
-        margin: -13px;
+        margin: -0.8125rem;
     }
     label{
-        margin-left: 13px;
+        margin-left: 0.8125rem;
     }
     .wrap_div{
-        margin-left: 25px;
-        margin-top: -25px;
+        margin-left: 1.56rem;
+        margin-top: -1.56rem;
     }
     .orange_box{
-        width: 10px;
-        height: 15px;
+        width: 0.625rem;
+        height: 0.9375rem;
         background-color: rgb(253, 135, 44);
-        margin-left: -8px;
+        margin-left: -0.5rem;
         border-radius:15%;
     }
 }
 .nine {
     background-color: rgb(249, 234, 239);
     border-radius: 50%;
-    padding: 6px 10px 6px 10px;
+    padding: 0.375rem 0.625rem 0.375rem 0.625rem;
   }
 .unresolved-nav {
     border-bottom: 5px solid purple;
