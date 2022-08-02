@@ -1,9 +1,18 @@
 @import "./global.scss";
 
+
+@mixin name($parameter1, $parameter2) {
+    display: $parameter1;
+    justify-content: $parameter2;
+    
+}
 .main__article{
+    // font-family: $font;
     color: $text-color;
     z-index: -1;
+    // @include name(flex, space-between);
 }
+
 .javascript-text{
     display: flex;
 }
