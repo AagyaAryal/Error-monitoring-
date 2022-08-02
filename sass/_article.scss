@@ -11,6 +11,16 @@ i{
     padding: 5px;
     color: $icon-color;
 }
+.wrap__article{
+     nav {
+        display: flex;
+        span {
+            padding: 5px;
+          }
+      }
+      
+    
+}
 
 table{
     .error_div{
@@ -50,11 +60,5 @@ table{
 .unresolved-nav {
     border-bottom: 5px solid purple;
   }
-  body nav {
-    display: flex;
-  }
-  body nav span {
-    padding: 5px;
-  }
-
+ 
   
